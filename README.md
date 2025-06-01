@@ -4,11 +4,11 @@ Welcome to **AB Aniket – John James’s Personal Blog**, a sleek and modern de
 https://abaniket7.github.io/myBlog/
 ---
 
-![image](https://github.com/user-attachments/assets/3c9944ee-c81f-4a0d-aaea-843ec03b3dc4)
+![image](https://github.com/user-attachments/assets/aba4306a-3142-49f0-b2ee-f976ed531752)
 ![image](https://github.com/user-attachments/assets/39b0d23b-f553-4983-b0e3-291054f74ab2)
 ![image](https://github.com/user-attachments/assets/dbd56286-a3d6-4c7f-80f1-a94cd48f1ced)
 ![image](https://github.com/user-attachments/assets/be4a4860-d644-4b7c-8dc4-982664f64c5e)
-![image](https://github.com/user-attachments/assets/aba4306a-3142-49f0-b2ee-f976ed531752)
+![image](https://github.com/user-attachments/assets/3c9944ee-c81f-4a0d-aaea-843ec03b3dc4)
 
 
 ## 🎯 Key Features
